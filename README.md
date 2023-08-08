@@ -3,3 +3,12 @@
 3. programatic verification
 4. push to github
    
+# About
+
+This is a crowd sourcing app!
+
+# Getting started
+
+## Requirements
+
+## Quick start
